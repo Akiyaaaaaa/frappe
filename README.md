@@ -33,7 +33,7 @@ This repository is licensed under the [MIT License](LICENSE). By contributing to
 
 ## Maintainers
 
-This repository is maintained by [Your Name/Organization](https://github.com/your-username).
+This repository is maintained by [Nyuuk](https://github.com/Nyuuk) & [Akiyaaaaaa](https://github.com/Akiyaaaaaa).
 
 ## Feedback
 
